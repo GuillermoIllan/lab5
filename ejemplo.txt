@@ -2,5 +2,13 @@
 *
 *Estas tres primeras líneas estaban escritas inicialmente
 *
+*Esta es la copia unión del repositorio local y de GitHub
+*
+´´´<HEAD
+*
+*Esta es la copia local
+=======
+*
 *Esta es la copia de GitHub
+^^^> 6af94b0bb33f460837cccfbdb45cf7be09dda7d3
 
